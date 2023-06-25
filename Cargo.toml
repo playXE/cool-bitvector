@@ -2,7 +2,6 @@
 name = "cool-bitvector"
 version = "0.1.0"
 edition = "2021"
-license-file = "LICENSE"
 license = "MIT"
 homepage = "https://github.com/playxe/cool-bitvector"
 repository = "https://github.com/playxe/cool-bitvector"
