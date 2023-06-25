@@ -7,7 +7,8 @@ homepage = "https://github.com/playxe/cool-bitvector"
 repository = "https://github.com/playxe/cool-bitvector"
 documentation = "https://docs.rs/cool-bitvector"
 readme = "README.md"
-
+description = "A cool bitvector implementation in Rust"
+authors = ["Adel Prokurov <adel.prokruvo@gmail.com>"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
